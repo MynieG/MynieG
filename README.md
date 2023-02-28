@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/MynieG/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/MynieG/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/MynieG/ticket-lifecycle)
+  - [osTicket: Ticket-Lifecycle Examples](https://github.com/MynieG/ticket-lifecycle)
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MynieG/configure-ad)
